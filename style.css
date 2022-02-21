@@ -1,0 +1,35 @@
+.accent {
+    color: #ee6c4d;
+}
+
+.accent-bg {
+    background-color: #ffaaaa;
+}
+
+.sec-color-bg {
+    background-color: #d8f3dc;
+}
+
+.sec-color {
+    color: #52b788;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #ee6c4d;
+}
+
+.hor-image {
+    height: 11rem;
+    object-fit: cover;
+    width: 100%;
+}
+
+#map {
+    height: 100vh;
+    width: 100%;
+}
